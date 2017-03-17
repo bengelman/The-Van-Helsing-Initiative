@@ -9,8 +9,6 @@ public class CommonProxy {
 		item.setUnlocalizedName(VanHelsing.MODID + ":" + name);
 		item.setRegistryName(name);
 		GameRegistry.register(item, item.getRegistryName());
-
-		//LanguageRegistry.addName(item, display);
 		item.setCreativeTab(tab); 
 		
 	}
