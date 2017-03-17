@@ -11,6 +11,7 @@ public class CommonProxy {
 		GameRegistry.register(item, item.getRegistryName());
 
 		//LanguageRegistry.addName(item, display);
-		item.setCreativeTab(tab);
+		item.setCreativeTab(tab); 
+		
 	}
 }
