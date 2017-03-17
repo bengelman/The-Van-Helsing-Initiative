@@ -1,0 +1,16 @@
+[
+{
+  "modid": "vanhelsing",
+  "name": "The Van Helsing Initiative",
+  "description": "Fight and capture monsters using a variety of weapons and magical powers.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["pdogmuncher"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
